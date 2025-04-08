@@ -1,4 +1,4 @@
-# Exemplo 1 de teste unitário de calculadora utilizando Junit 5
+# - Teste unitário de calculadora utilizando Junit 5 -
 
 <br>
 - O projeto foi desenvolvido no NetBeans deve ser chamado exemplo1_calculadora_junit5.<br>
